@@ -18,7 +18,7 @@ The goal of this analysis is to perform exploratory data analysis on the data se
 
 ## Results
 
-A summary writeup of the results is publised at [http://flolytic.com/blog/gender-pay-gap-among-data-scientists-on-kaggle](http://flolytic.com/blog/gender-pay-gap-among-data-scientists-on-kaggle?utm_source=github&utm_medium=readme)
+A summary writeup of the results is publised at [https://flolytic.com/blog/gender-pay-gap-among-data-scientists-on-kaggle](https://flolytic.com/blog/gender-pay-gap-among-data-scientists-on-kaggle?utm_source=github&utm_medium=readme)
 
 ## Licensing
 
