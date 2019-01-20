@@ -6,6 +6,8 @@ This project is using the Anaconda distribution of Python version 3.7. Libraries
 
 ## Project Motivation
 
+This project is part of my completion of the Udacity Data Science Nanodegree. The goal is to select a data set and to analyze it and provide a writeup of the analysis in a blog post.
+
 Kaggle's second annual survey of platform users created a very rich data set on individual users' demographics and experience in the data science and data analysis space.
 
 The goal of this analysis is to perform exploratory data analysis on the data set. Specifically, the country, age, and pay distributions of the survey takers are analyzed.
@@ -18,7 +20,7 @@ The goal of this analysis is to perform exploratory data analysis on the data se
 
 ## Results
 
-A summary writeup of the results is publised at [https://flolytic.com/blog/gender-pay-gap-among-data-scientists-on-kaggle](https://flolytic.com/blog/gender-pay-gap-among-data-scientists-on-kaggle?utm_source=github&utm_medium=readme)
+A summary writeup of the results is published at [https://flolytic.com/blog/gender-pay-gap-among-data-scientists-on-kaggle](https://flolytic.com/blog/gender-pay-gap-among-data-scientists-on-kaggle?utm_source=github&utm_medium=readme)
 
 ## Licensing
 
